@@ -1,0 +1,6 @@
+{
+  "name": "Dipu AI",
+  "description": "Native Android AI assistant powered by Gemini AI with Hindi and English voice interaction, chat history, and text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

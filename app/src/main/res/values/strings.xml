@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dipu AI</string>
+    <string name="chat_title">Dipu AI</string>
+    <string name="hint_input_message">Ask Dipu AI anything…</string>
+    <string name="hint_input_hindi">दीपू एआई से कुछ भी पूछें…</string>
+    <string name="send">Send</string>
+    <string name="listening">Listening…</string>
+    <string name="speak_now">Speak now (बोलिए)…</string>
+    <string name="new_chat">New Chat</string>
+    <string name="chat_history">Chat History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="language_toggle">Language: English / हिन्दी</string>
+    <string name="error_no_internet">Internet connection unavailable. Please check your network and try again.</string>
+    <string name="error_ai_service">AI service is currently unavailable. Please check your API key in Secrets panel or try again shortly.</string>
+    <string name="error_speech_permission">Microphone permission is needed for voice input.</string>
+    <string name="tts_playing">Reading aloud…</string>
+    <string name="tts_stop">Stop reading</string>
+    <string name="copy_text">Copy text</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="retry">Retry</string>
+    <string name="setup_info">Dipu AI uses Google Gemini. Configure your GEMINI_API_KEY in the Secrets panel in AI Studio.</string>
+</resources>
